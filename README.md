@@ -1,4 +1,4 @@
-Originally from [Stephen Grinder](https://github.com/StephenGrider).
+Originally from [Stephen Grider](https://github.com/StephenGrider).
 
 # ReduxSimpleStarter
 
